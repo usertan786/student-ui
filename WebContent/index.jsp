@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>Rahul Tanmay Shubham </h1>
+	<h1>Rahul Tanmay Shubham sab paagal hai</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
